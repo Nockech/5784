@@ -1,0 +1,32 @@
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\Music Extractor.csproj.AssemblyReference.cache
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\SetTimeWindow.g.cs
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\App.g.cs
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\Music Extractor_MarkupCompile.cache
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\Music Extractor_MarkupCompile.lref
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\Music Extractor.exe
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\Music Extractor.deps.json
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\Music Extractor.runtimeconfig.json
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\Music Extractor.runtimeconfig.dev.json
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\Music Extractor.dll
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\ref\Music Extractor.dll
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\Music Extractor.pdb
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\AngleSharp.dll
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\Microsoft.WindowsAPICodePack.dll
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\bin\Debug\net5.0-windows\YoutubeExplode.dll
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\MainWindow.baml
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\SetTimeWindow.baml
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\Music Extractor.g.resources
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\Music Extractor.GeneratedMSBuildEditorConfig.editorconfig
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\Music Extractor.AssemblyInfoInputs.cache
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\Music Extractor.AssemblyInfo.cs
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\Music Extractor.csproj.CoreCompileInputs.cache
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\Music Extractor.csproj.CopyComplete
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\Music Extractor.dll
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\ref\Music Extractor.dll
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\Music Extractor.pdb
+D:\JetBrains Rider 2021.2\RiderProjects\Music Extractor\Music Extractor\obj\Debug\net5.0-windows\Music Extractor.genruntimeconfig.cache

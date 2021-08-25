@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\JetBrains Rider 2021.2\\RiderProjects\\Music Extractor\\Music Extractor\\Music Extractor.csproj": {}
+  },
+  "projects": {
+    "D:\\JetBrains Rider 2021.2\\RiderProjects\\Music Extractor\\Music Extractor\\Music Extractor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\JetBrains Rider 2021.2\\RiderProjects\\Music Extractor\\Music Extractor\\Music Extractor.csproj",
+        "projectName": "Music Extractor",
+        "projectPath": "D:\\JetBrains Rider 2021.2\\RiderProjects\\Music Extractor\\Music Extractor\\Music Extractor.csproj",
+        "packagesPath": "C:\\Users\\hleby\\.nuget\\packages\\",
+        "outputPath": "D:\\JetBrains Rider 2021.2\\RiderProjects\\Music Extractor\\Music Extractor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hleby\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "WindowsAPICodePack": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\hleby\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

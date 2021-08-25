@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music Extractor", "Music Extractor\Music Extractor.csproj", "{4EA032D3-51CC-4E62-810E-3AD078A7D0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA032D3-51CC-4E62-810E-3AD078A7D0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA032D3-51CC-4E62-810E-3AD078A7D0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA032D3-51CC-4E62-810E-3AD078A7D0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA032D3-51CC-4E62-810E-3AD078A7D0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
